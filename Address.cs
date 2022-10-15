@@ -40,5 +40,9 @@ namespace OnlineShopForElectronic
             this.MoreInfo = moreInfo;
          
         }
+
+
+        //dukshdijiodkioehvgudhfviodsjlfkldsjfiidk
+
     }
 }
